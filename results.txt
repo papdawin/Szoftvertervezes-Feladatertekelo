@@ -1,0 +1,35 @@
+--automatikus teszt
+
+Hallgato: AcsBoglarka-KatonaBence	50 %-ot ért el
+Hallgato: BallaPatrik	50 %-ot ért el
+Hallgato: DuzsikDominik	0 %-ot ért el
+Hallgato: GaalLevente	50 %-ot ért el
+Hallgato: HortobagyiAxel	50 %-ot ért el
+Hallgato: KereszturiGergo	75 %-ot ért el
+Hallgato: KleinGergo	75 %-ot ért el
+Hallgato: KovacsKristof	75 %-ot ért el
+Hallgato: KriskoTamas	75 %-ot ért el
+Hallgato: PotyondiBlanka	50 %-ot ért el
+Hallgato: RoncsAlex	50 %-ot ért el
+Hallgato: SafranyDaniel	75 %-ot ért el
+Hallgato: SimonSBenedek	100 %-ot ért el
+Hallgato: SkibaGergoAndras	75 %-ot ért el
+Hallgato: VargaGyorgy	75 %-ot ért el
+
+--manuális Dávid féle baráti pontozás
+
+Hallgato: AcsBoglarka-KatonaBence	100 %-ot ért el
+Hallgato: BallaPatrik	75 %-ot ért el
+Hallgato: DuzsikDominik	25 %-ot ért el
+Hallgato: GaalLevente	50 %-ot ért el
+Hallgato: HortobagyiAxel	75 %-ot ért el
+Hallgato: KereszturiGergo	100 %-ot ért el
+Hallgato: KleinGergo	75 %-ot ért el
+Hallgato: KovacsKristof	100 %-ot ért el
+Hallgato: KriskoTamas	75 %-ot ért el
+Hallgato: PotyondiBlanka	75 %-ot ért el
+Hallgato: RoncsAlex	50 %-ot ért el
+Hallgato: SafranyDaniel	100 %-ot ért el
+Hallgato: SimonSBenedek	100 %-ot ért el
+Hallgato: SkibaGergoAndras	100 %-ot ért el
+Hallgato: VargaGyorgy	75 %-ot ért el
